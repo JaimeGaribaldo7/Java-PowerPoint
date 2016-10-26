@@ -3,15 +3,24 @@ Java
 What is it?
 Java is a programming language
      Java 		   vs	   JavaScript
+
 Java Coding
+
 Common words you’ll see
 Public: Tells java interpreter, THIS should be available to all other classes.
+
 Class: A “blueprint” for what you want the program to do.
+
 Static: Only a class can call for this function to execute.
+
 Void: This function wont return any values after it is done executing.
+
 Main: This is required in all classes.
+
 (String[ ] args): A parameter used commonly. When used in the MAIN function, it would mean every MAIN function must accept an array of string objects
+
 System.out: object that outputs info in diff ways
+
 Println: Function in system out that prints and sets a new line at the end of the print.
 
 Java Coding Review
