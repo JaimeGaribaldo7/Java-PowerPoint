@@ -15,6 +15,8 @@ System.out: object that outputs info in diff ways
 Println: Function in system out that prints and sets a new line at the end of the print.
 
 Java Coding Review
+
+```java
 public class HelloWorld
 {
    public status void main(String[] args){
@@ -22,6 +24,8 @@ public class HelloWorld
 	char j = ‘j’;
 	}
 }
+```
+
 Cool Extras 		Java’s History
 In 1990 Sun Microsystems started a program to make software that would be used in consumer electronics. They called this program “Green”. A developer named James Arthur Gosling began writing software in C++ for embedding() into various systems like VCR’s, Toasters, Microwave Ovens, and PDA’s. When writing software for these technologies, Gosling’s team found that C++ had emphasis on speed, not reliability. In 1991, After working together to try to create a more reliable system, they came up with a new programming language called “Oak”. With this language, they developed impressive new devices where you did not need buttons or a keyboard to operate them, only a tiny screen, somehow, this technology did not take off. Thanks to an idea from Billy Joy, one of the co-founders of Sun Microsystems, they decided to release Java for free over the internet and it later became a standard. Oak was later renamed to Java, due to advice from some trademark lawyers that ruled out “Oak” as a possibility.
 
